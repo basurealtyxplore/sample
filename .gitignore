@@ -2,4 +2,4 @@
 # Project Specific
 ######################
 
-/bower_components/**
+/public/libs/bower_components/**
