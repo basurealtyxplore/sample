@@ -1,8 +1,23 @@
-Its Static website building tutorial
+# How to build Static Website from scratch.
 
-Technologies used:
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-1: Bower - Package Manager
-2: HTML/ CSS/ JS
-3: JQuery
-4: Boostrap
+### Technologies used
+  - HTML5
+  - CSS3
+  - Bower - Package Manager
+  - Jquery
+  - Bootstrap 3+
+
+##### - Step : 1
+
+  - Install bower
+  - Install dependencies
+ 
+```sh
+$ mkdir sample
+$ cd sample
+$ bower init - and answer the questions!
+$ bower install jquery boostrap
+```
+
